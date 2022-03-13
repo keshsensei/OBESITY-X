@@ -2,4 +2,4 @@
 Obesity X was created by me in C# (More features to it would be created soon)
 
 **PREVIEW**
-https://discord.com/channels/@me/902724353463042048/952590301720113242
+![image](https://user-images.githubusercontent.com/93004403/158067512-08143701-db16-4052-908b-130b53cc451c.png)

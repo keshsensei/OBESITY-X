@@ -6,13 +6,22 @@ If your wondering "how can it be a Rat and a DDos when its designed as a stub" W
 
 # FEATURES
 (Stub Option) GRAB ROBLOX COOKIES
+
 (STUB OPTION) IP GRABBER
+
 (Rat Option) CONTROLL PC'S **including other users on that 1 or many pc**
+
 (Stub Option) Token Grabber **grabs discord token**
-(STUB OPTION) SEIZURE (flashes their screen super glowing white that blinds their eyes) **note this has like millions of layers of glowing bright white** **took 2 months**
-(Rat Option) Bitcoin miner **mines their bitcoin** () **took a year to finish**
-Screenshot **Screenshots their computer** (useless might remove)
+
+(STUB OPTION) SEIZURE (flashes their screen super glowing white that blinds their eyes) **note this has like millions of layers of glowing bright white** **took 2
+months**
+
+(Rat Option) Bitcoin miner **mines their bitcoin** **took a year to finish**
+
+(Stub Option)Screenshot **Screenshots their computer** (useless might remove)
+
 (Rat Option) Money stealer **If they dont have bitcoin u can steal their money** (supports every currency) **took 3 months to finish**
+
 (Stub Option) W Prod Key **steals their windows Production Key**
 DDos 1-7 **A DDos including layers 1-7**
 

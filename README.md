@@ -4,7 +4,7 @@ Obesity X was created by me in C# It has a variety of good options. It is a mixt
 # IMPORTANT
 If your wondering "how can it be a Rat and a DDos when its designed as a stub" Well actually when you tick the options that a rat has (Features below) It compiles it as an application located in C:\Users\yourname\Downloads. if you dont want it located there you can just move it to where you want. (You can also tick stubs with this too because the system know what to compile as an exe and as an application) **USING A VM CORRUPTS THE SYSTEM**
 
-#FEATURES
+# FEATURES
 (Stub Option) GRAB ROBLOX COOKIES
 (STUB OPTION) IP GRABBER
 (Rat Option) CONTROLL PC'S **including other users on that 1 or many pc**
